@@ -94,52 +94,52 @@ This project aims to:
 ![Netflix](https://i.postimg.cc/wTYcz9g4/2.png)
 
 ## *3. Categorize movies into Old (before 2000), Mid (2000-2015), and Recent (2016+).*
-![Netflix]()
+![Netflix](https://i.postimg.cc/7ZmgS77j/3.png)
 
 ## *4. Find movies or shows with the same director.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/44vksNpm/4.png)
 
 ## *5. Find the year with the highest number of releases.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/TwrSdCLZ/5.png)
 
 ## *6. Calculate the standard deviation of movie durations.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/DzGp6Bg8/6.png)
 
 ## *7. Compute the rolling average of content added over 3 years.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/hP3CqHZX/7.png)
 
 ## *8. Identify the director with the most consistent output over years.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/K8M5h4gW/8.png)
 
 ## *9.  Is there a correlation between the release year and the number of cast members in a movie or TV show?*
-![Netflix]()
+![Netflix](https://i.postimg.cc/85PWcCjN/9.png)
 
 ## *10. How does the duration of movies evolve over the years?*
-![Netflix]()
+![Netflix](https://i.postimg.cc/HL3cqC3K/10.png)
 
 ## *11. Identify movies with extreme durations using Z-score analysis.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/G3TPyHXm/11.png)
 
 ## *12. Find the average number of movies added per decade.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/zf3HYcMG/12.png)
 
 ## *13. What is the percentage of content directed by the top 10% of directors?*
-![Netflix]()
+![Netflix](https://i.postimg.cc/1zgXjNng/13.png)
 
 ## *14. Find the distribution of content by duration quartiles.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/2jxkTxcc/14.png)
 
 ## *15. Identify directors who have a consistent increase in movies over time.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/cCkP268H/15.png)
 
 ## *16. Determine the probability distribution of content types (Movies vs. TV Shows).*
-![Netflix]()
+![Netflix](https://i.postimg.cc/WpDRqwRq/16.png)
 
 ## *17. Compute the cumulative percentage of the top 20% most productive directors.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/BZxv13fK/17.png)
 
 ## *18. Identify the longest gaps between releases for the same director.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/jdcdZh5q/18.png)
 
 
 
