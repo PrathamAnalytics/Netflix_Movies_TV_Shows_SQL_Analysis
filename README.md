@@ -44,54 +44,54 @@ This project aims to:
 ![Netflix](https://i.postimg.cc/RCb2YFVK/7.png)
 
 ## *8. Find the longest duration movie.*
-![Netflix](https://ibb.co/9kQ3Jq8S)
+![Netflix](https://i.postimg.cc/Sx0K5Pr4/8.png)
 
 ## *9. Find the most common genre.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/fytwq7Sk/9.png)
 
 ## *10. Find the number of TV shows with more than 3 seasons.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/j59TfW3T/10.png)
 
 ## *11. Identify the proportion of each genre compared to the total content.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/pVhh6KHD/11.png)
 
 ## *12. Identify the most popular combination of genres that appear together.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/dVvh3XTB/12.png)
 
 ## *13. Find the proportion of movies that belong to multiple genres.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/T39pD9VX/13.png)
 
 ## *14. Determine the distribution of TV shows by number of seasons.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/zvKfXSz6/14.png)
 
 ## *15. Identify the most frequently occurring words in movie titles.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/LsW4t0hG/15.png)
 
 ## *16. Find the average number of movies released per year.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/HxTzt3K4/16.png)
 
 ## *17. Determine if there is a trend in the number of releases per year (increasing or decreasing).*
-![Netflix]()
+![Netflix](https://i.postimg.cc/zvck8Nf0/17.png)
 
 ## *18. What percentage of Netflix’s content is international?*
-![Netflix]()
+![Netflix](https://i.postimg.cc/rynjS19x/18.png)
 
 ## *19. Find the top 3 countries producing the most unique genres.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/Bbk2RChz/19.png)
 
 ## *20. Identify the most diverse directors by genre.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/gcTywYYK/20.png)
 
 ## *21. Find the director with the most consistent production across all years.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/NM0TMnSV/21.png)
 
 # ***Advanced Analytics***
 
 ## *1. Find the average duration of movies and TV shows.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/CMz65MyF/1.png)
 
 ## *2. Rank movies by their release year.*
-![Netflix]()
+![Netflix](https://i.postimg.cc/wTYcz9g4/2.png)
 
 ## *3. Categorize movies into Old (before 2000), Mid (2000-2015), and Recent (2016+).*
 ![Netflix]()
