@@ -1,4 +1,4 @@
-# ***Netflix_Movies_and_TV_Shows_SQL_Analysis***
+# ***Netflix Movies and TV Shows SQL Analysis***
 
 ![logo](https://github.com/PrathamAnalytics/Netflix_Movies_and_TV_Shows_SQL_Analysis/blob/main/logo.png?raw=true)
 
